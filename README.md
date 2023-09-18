@@ -8,4 +8,5 @@ This is a [Hubot](http://hubot.github.com/) adapter to use with [Slack](https://
 
 Comprehensive documentation [is available](https://slackapi.github.io/hubot-slack).
 
-test save
+Card Number	Card Type	Payment Status
+5555 5555 5555 4444	MasterCard	APPROVED
